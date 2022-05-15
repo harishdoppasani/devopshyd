@@ -1,0 +1,35 @@
+[33mcommit e57d743abe0eb34b166ef13d01a502b7b6329a63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Sun May 15 05:07:14 2022 +0000
+
+    added three files : passwd,group,shadow
+
+[33mcommit f9a03ea05f3234169f50fee123e6362886e379aa[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Fri May 13 09:04:13 2022 +0000
+
+    add second.
+
+[33mcommit 28bfbb6a2a8a8554361c9af1bf3b0ac0f4d7bcf8[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Fri May 13 09:00:50 2022 +0000
+
+    added second.java
+
+[33mcommit ffba49273c398603fb73c62b71a387f0d4411c31[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Fri May 13 08:53:07 2022 +0000
+
+    added third line of code..
+
+[33mcommit d01d0d235c2e74d7f88dc9c7ff824feb5d535819[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Fri May 13 08:33:38 2022 +0000
+
+    added second line of code in first.java program
+
+[33mcommit 96d84a2efa629a24058e91bac05f025a6ea9360a[m
+Author: Hari <root@ip-172-31-12-229.ap-south-1.compute.internal>
+Date:   Fri May 13 08:25:44 2022 +0000
+
+    created first.java program
